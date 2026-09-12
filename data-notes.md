@@ -8,9 +8,9 @@ GeoDev Lab Africa — Month 1, Week 2
 ## GRID3 BOSSO_LGA_BOUNDARY
 
 - Source: GRID3 (data.grid3.org)
-- Downloaded: [date]
-- Feature count: [fill in — attribute table title bar]
-- Geometry type: [Polygon / MultiPolygon — Layer Properties → Information]
+- Downloaded: [12-9-2026]
+- Feature count: [1 features, polyline]
+- Geometry type: [Polyline]
 - CRS: [fill in — Layer Properties → Information]
 - Columns: [fill in — Layer Properties → Fields]
 - Nulls found: [yes/no — which column]
@@ -19,9 +19,9 @@ GeoDev Lab Africa — Month 1, Week 2
 ## GRID3 BOSSO_WARD
 
 - Source: GRID3 (data.grid3.org)
-- Downloaded: [date]
-- Feature count: [fill in]
-- Geometry type: [fill in]
+- Downloaded: [12-9-2026]
+- Feature count: [34 features, polygon]
+- Geometry type: [polygon]
 - CRS: [fill in]
 - Columns: [fill in]
 - Nulls found: [yes/no — which column]
@@ -30,8 +30,8 @@ GeoDev Lab Africa — Month 1, Week 2
 ## GRID3 BOSSO_HEALTHCARE_FACILITIES
 
 - Source: GRID3 (data.grid3.org)
-- Downloaded: [date]
-- Feature count: [fill in]
+- Downloaded: [12-9-2026]
+- Feature count: [119 features, point]
 - Geometry type: [Point]
 - CRS: [fill in]
 - Columns: [fill in — check for a facility type/category column]
