@@ -51,4 +51,6 @@ just outside the buffer is treated the same as a densely populated one.
 * Population figures per settlement/ward (numeric, not just visual density) to convert "area uncovered" into
 "people uncovered," which is the number that actually matters for prioritizing new facilities.
 * A facility-type/capacity attribute, to distinguish basic clinics from hospitals in future coverage analysis.
+<img width="1449" height="970" alt="HEALTHCARE FACILITES BOSSO LGA" src="https://github.com/user-attachments/assets/fbd3a585-7d45-4893-a64c-ca5e64332338" />
+
 
