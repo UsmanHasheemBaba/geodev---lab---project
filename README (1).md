@@ -16,6 +16,11 @@ each dataset used.
 ## Status
 
 - [x] Week 1 — Project brief written
-- [ ] Week 2 — Data downloaded, opened, described (in progress)
-- [ ] Week 3 — Reprojected, clipped, quality-checked
-- [ ] Week 4 — Spatial analysis run
+- [x] Week 2 — Data downloaded, opened, described (in progress)
+- [x] Week 3 — Reprojected, clipped, quality-checked
+- [x] Week 4 — Spatial analysis run
+
+
+## Month 2: Development Environment and Early Python
+
+-Week 5: Setup Python, VS Code and the terminal hello.py runs
