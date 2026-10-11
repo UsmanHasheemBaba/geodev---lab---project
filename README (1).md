@@ -24,3 +24,4 @@ each dataset used.
 ## Month 2: Development Environment and Early Python
 
 -Week 5: Setup Python, VS Code and the terminal hello.py runs
+-Week 6: set up the project with uv and added pandas. check.py prints the pandas version.  
