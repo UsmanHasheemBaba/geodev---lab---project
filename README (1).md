@@ -25,4 +25,5 @@ each dataset used.
 
 -Week 5: Setup Python, VS Code and the terminal hello.py runs
 -Week 6: Set up the project with uv and added pandas. check.py prints the pandas version.  
--Week 7: analyse.py reads wards.csv, coverts each area and classifies each ward.
+-Week 7: Analyse.py reads wards.csv, coverts each area and classifies each ward.
+-Week 8: inspect_data.py summaries latitude and longitude because they only value data/column in my Bosso health facilities data (boss.csv).
