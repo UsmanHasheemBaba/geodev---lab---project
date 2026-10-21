@@ -1,0 +1,115 @@
+latitude,longitude,ward_stand,ward_bdry,facility_n,facility_l,facility_t,facility_o,facility_1,functional,sett_ext_t
+9.59865570000,6.35946050000,Beji,Kampala,Beji Primary Health Center,Primary,Primary Health Center,Public,Unknown,Functional,Hamlet
+9.53912353500,6.31890869100,Kodo,Beji,Gungel Maternity Home,,,,,,Small Settlement Area
+9.62670898400,6.32611084000,Beji,Beji,Daza Primary Health Care,,,,,,Built-up Area
+9.60182330000,6.40120500000,Kampala,Kampala,Ulakami Health Center,Primary,Health Center,Public,Unknown,Functional,Hamlet
+9.53223040000,6.23588610000,Kodo,Kodo,Kapulagi Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.63390500000,6.32809300000,Beji,Beji,Ikon Allah Primary Health Center,Primary,Primary Health Center,Public,Unknown,Functional,Built-up Area
+9.64113330000,6.39916400000,Kampala,Kampala,Guasase Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.62969970700,6.33007812500,Beji,Beji,Haji Primary Health Care,,,,,,Built-up Area
+9.52725390000,6.31885710000,Kodo,Kodo,Tandigi Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.58282000000,6.22247000000,Kodo,Kodo,Pai Primary Healthcare Center,Primary,Primary Health Center,Public,,Functional,Small Settlement Area
+9.62310000000,6.24110000000,Oworo,Beji,Honey Gold Clinic And Maternity,Secondary,Maternity Home,Private,,Functional,
+9.63204620000,6.36391300000,Kampala,Kampala,Popoi Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.65597490000,6.38739800000,Kampala,Kampala,Nakpankuchi Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.64068603500,6.39691162100,Kampala,Kampala,Mayaki Primary Health Center,,,,,,Small Settlement Area
+9.62931000000,6.32532010000,Beji,Beji,Beji Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Built-up Area
+9.61044800000,6.36278240000,Kampala,Kampala,Bwatapi Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Hamlet
+9.61169600000,6.26838220000,Beji,Beji,Gbusugi Health Clinic,Primary,Clinic,Public,State Government,Unknown,Small Settlement Area
+9.58293300000,6.22232350000,Kodo,Kodo,Pai Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.55958350000,6.37494220000,Beji,Beji,Barkuta Health Clinic,Primary,Clinic,Public,State Government,Unknown,Small Settlement Area
+9.66097330000,6.25126490000,Kodo,Kodo,Tsohon Kanpani Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.67219000000,6.52489000000,Shatta,Bosso 2 Central,Pichiko Health Clinic,,,,,,Built-up Area
+9.66594839500,6.51916349100,Shatta,Bosso 2 Central,Tudun Fulani Primary Health Center,Primary,Primary Health Center,Public,Local Government,Functional,Built-up Area
+9.64831543000,6.50592041000,Bosso 2 Central,Bosso 1,School Of Hand Cape Primary Health Care,Primary,Primary Health Center,Public,Local Government,Unknown,Built-up Area
+9.65631103500,6.52947998100,Shatta,Bosso 2 Central,Kowa Hospital,,,,,,Built-up Area
+9.66559050000,6.51940740000,Bosso 2 Central,Bosso 2 Central,Tudun Fulani Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Built-up Area
+9.64149290000,6.50313240000,Bosso 1,Bosso 1,Gbaiko Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Built-up Area
+9.65332680000,6.53348300000,Bosso 2 Central,Bosso 2 Central,Bosso Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Built-up Area
+9.65850830100,6.54010009800,Shatta,Bosso 2 Central,Tudun Fulani Gabas Primary Health Center,Primary,Primary Health Center,Public,Local Government,Functional,Built-up Area
+9.67526000000,6.58282000000,Maitumbi,Maitumbi,Kochia Rural Health Clinic,,,,,,Small Settlement Area
+9.69660930000,6.52948640000,Shatta,Shatta,Pyata Primary Health Centre,Primary,Clinic,Public,State Government,Unknown,Small Settlement Area
+9.67772995600,6.57216673500,Shatta,Bosso 2 Central,Jikogbe Health Clinic,Primary,Clinic,Public,Local Government,Functional,Small Settlement Area
+9.65419000000,6.53420000000,Shatta,Bosso 2 Central,Madangyan Dispensary,,,,,,Built-up Area
+9.67535760000,6.58258150000,Maitumbi,Maitumbi,Tayi B Primary Health Centre,Primary,Clinic,Public,State Government,Unknown,Small Settlement Area
+9.72284970000,6.54999450000,Shatta,Shatta,Pmawo Primary Health Centre,Primary,Clinic,Public,State Government,Unknown,Hamlet
+9.65886570000,6.53987380000,Bosso 2 Central,Bosso 2 Central,Tudun Fulani Gabas Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Built-up Area
+9.67704370000,6.57338220000,Bosso 2 Central,Bosso 2 Central,Jikogbe Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Hamlet
+9.55601830000,6.56729170000,Chachanga,Chachanga,Bosso Canntonement Medical Center,Secondary,Medical Center,Public,Unknown,Functional,Built-up Area
+9.56731000000,6.58283000000,Chachanga,Chachanga,Ebugi Primary Health Center,,,,,,Built-up Area
+9.55136170000,6.58084170000,Chachanga,Chachanga,Tagagi Primary Health Center,Primary,Primary Health Center,Public,Unknown,Functional,Built-up Area
+9.56030273400,6.51470947300,Chachanga,Chachanga,Briji Health Post,,,,,,Small Settlement Area
+9.54273170000,6.57935170000,Chachanga,Chachanga,Indago Primary Health Center,Primary,Primary Health Center,Public,Unknown,Functional,Built-up Area
+9.55457000000,6.58307170000,Chachanga,Chachanga,Kwakuti Basic Health Center,Primary,Primary Health Clinic,Public,Unknown,Functional,Built-up Area
+9.53576030000,6.58238070000,Chachanga,Chachanga,Ppfn Chanchaga Clinic,Primary,Clinic,Public,Unknown,Functional,Built-up Area
+9.53855330000,6.58120500000,Chachanga,Chachanga,Chanchaga Planned Parenthood Of Nigeria Clinic,Primary,Primary Health Center,Public,State Government,Unknown,Built-up Area
+9.54115990000,6.51819530000,Chachanga,Chachanga,Dubbo Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.56349380000,6.59826270000,Chachanga,Chachanga,Kadna Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Built-up Area
+9.55426740000,6.58761920000,Chachanga,Chachanga,Tugan Goro Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Built-up Area
+9.42132568300,6.38452148400,Garatu,Garatu,Alura Primary Health Center,,,,,,Small Settlement Area
+9.58201710000,6.45062490000,Maikunkele,Maikunkele,Gbedadbai Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.46150300000,6.43884700000,Garatu,Garatu,Mai Unguwar Bosso Health Post,Primary,Health Post,Public,Unknown,Functional,Small Settlement Area
+9.56113000000,6.44057000000,Garatu,Garatu,Bangifu Baby Friendly Hospital,,,,,,Small Settlement Area
+9.50927734400,6.40527343700,Garatu,Garatu,Sabon Lunko Primary Health Center,,,,,,Small Settlement Area
+9.48331000000,6.43924000000,Garatu,Garatu,Maikunkel Primary Health Center,Primary,Primary Health Center,Public,Unknown,Functional,Built-up Area
+9.50942010000,6.40530370000,Garatu,Garatu,Bahanya Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.46203900000,6.44590060000,Garatu,Garatu,Gbata Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.47968200000,6.47471550000,Garatu,Garatu,Tsohon Daga Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Hamlet
+9.42811240000,6.38594280000,Garatu,Garatu,Sabon Daga Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.57667820000,6.47537360000,Garatu,Garatu,Kodoko Health Post,Primary,Primary Health Center,Public,State Government,Unknown,Built-up Area
+9.48328410000,6.43916810000,Garatu,Garatu,Garatu Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Built-up Area
+9.54012960000,6.46938930000,Garatu,Garatu,Gidan Kwano Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.51765280000,6.48886860000,Garatu,Garatu,Pompo Health Post,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.48632812500,6.44128418000,Garatu,Garatu,Zamani Maternity Home Clinic,,,,,,Built-up Area
+9.56145790000,6.44290460000,Garatu,Garatu,Lunko Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.56947470000,6.49296770000,Garatu,Garatu,Gidan Mongoro Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Built-up Area
+9.64650690000,6.44251770000,Maikunkele,Maikunkele,Maikunkele Primary Health Center,Primary,Primary Health Center,Public,Local Government,Functional,Hamlet
+9.66537370000,6.43094980000,Kampala,Kampala,Kuyi Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.66881830000,6.41292670000,Kampala,Kampala,Kampala Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.70528000000,6.22489833300,Kodo,Kodo,Bosso Comprehensive Primary Health Center,Primary,Primary Health Center,Public,Unknown,Functional,Small Settlement Area
+9.50139830000,6.21919500000,Kodo,Kodo,Tsadogonna Health Clinic,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.61413830000,6.20354670000,Kodo,Kodo,Zokogi Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.70523250000,6.22487940000,Kodo,Kodo,Kodo Model Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.47767270000,6.27374600000,Kodo,Kodo,Nangawu Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.44754780000,6.28134400000,Kodo,Kodo,Nangawu Chinama Health Clinic,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.68225830000,6.46467670000,Maikunkele,Maikunkele,Gayegi Primary Health Center,Primary,Primary Health Center,Public,Unknown,Functional,Built-up Area
+9.67461530000,6.50147390000,Maikunkele,Maikunkele,Rafin Yashi Primary Health Centre,Primary,Clinic,Public,State Government,Unknown,Built-up Area
+9.72913070000,6.50287990000,Shatta,Shatta,Madako Primary Health Centre,Primary,Clinic,Public,State Government,Unknown,Small Settlement Area
+9.74267578100,6.51129150400,Shatta,Shatta,Lafiya Primary Health Center,,,,,,Small Settlement Area
+9.68870830000,6.50367260000,Maikunkele,Maikunkele,Jikuchi Primary Health Centre,Primary,Clinic,Public,State Government,Unknown,Small Settlement Area
+9.74159571100,6.51059800500,Shatta,Shatta,Abidana Maternity Home,,,,,,Small Settlement Area
+9.72844970000,6.45624400000,Maikunkele,Maikunkele,Kiyola Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.68295500000,6.46699170000,Maikunkele,Maikunkele,Mailehe Primary Health Center,Primary,Primary Health Center,Public,Unknown,Functional,Built-up Area
+9.68469238300,6.47412109400,Maikunkele,Maikunkele,Nasara Pecc Clinic,,,,,,Built-up Area
+9.68170166000,6.46630859400,Maikunkele,Maikunkele,Gwallo Sarki Primary Health Center,,,,,,Built-up Area
+9.68487548800,6.47668457000,Maikunkele,Maikunkele,Hope Primary Health Center,,,,,,Built-up Area
+9.76278330000,6.45636330000,Maikunkele,Maikunkele,Kawu Primary Health Center,Primary,Primary Health Center,Public,Unknown,Functional,Small Settlement Area
+9.61717500000,6.47030830000,Maikunkele,Maikunkele,Jangaru Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.68761510000,6.48620650000,Maikunkele,Maikunkele,Maikunkele Quarters Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Built-up Area
+9.72972000000,6.50292000000,Maikunkele,Shatta,Madako Primary Health Centre,Primary,Primary Health Center,Public,,Functional,Small Settlement Area
+9.71031390000,6.46598160000,Maikunkele,Maikunkele,Jimi Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.75939280000,6.47733660000,Maikunkele,Maikunkele,Maiyiwi Primary Health Centre,Primary,Clinic,Public,State Government,Unknown,Small Settlement Area
+9.68219050000,6.46803110000,Maikunkele,Maikunkele,Maikunkele Maternal And Child Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Built-up Area
+9.68626740000,6.48107660000,Maikunkele,Maikunkele,Kpango Primary Health Centre,Primary,Clinic,Public,State Government,Unknown,Built-up Area
+9.74080830000,6.50995000000,Shatta,Shatta,Shatta Primary Health Centre,Primary,Primary Health Center,Public,State Government,Unknown,Small Settlement Area
+9.63672910000,6.63216570000,Maitumbi,Maitumbi,Sabon Gurusu Primary Health Centre,Primary,Clinic,Public,State Government,Unknown,Small Settlement Area
+9.63974670000,6.57195000000,Maitumbi,Maitumbi,Gusase Primary Health Center,Primary,Primary Health Center,Public,Unknown,Functional,Built-up Area
+9.64099830000,6.57890170000,Maitumbi,Maitumbi,Sabon Rijiya Primary Health Center,Primary,Primary Health Center,Public,Unknown,Functional,Built-up Area
+9.64328830000,6.57229750000,Maitumbi,Maitumbi,Gudugudu Primary Health Centre,Primary,Clinic,Public,State Government,Unknown,Built-up Area
+9.66129570000,6.61808440000,Maitumbi,Maitumbi,Shakwata Primary Health Centre,Primary,Clinic,Public,State Government,Unknown,Small Settlement Area
+9.63440990000,6.57315130000,Maitumbi,Maitumbi,Maitumbi Child Health Primary Health Centre Maternity Centre,Primary,Primary Health Center,Public,State Government,Unknown,Built-up Area
+9.63401130000,6.61542670000,Maitumbi,Maitumbi,Tsohon Gurusu Health Clinic,Primary,Health Post,Public,State Government,Unknown,Small Settlement Area
+9.67700740000,6.61025530000,Maitumbi,Maitumbi,Pmassi Primary Health Centre,Primary,Clinic,Public,State Government,Unknown,Small Settlement Area
+9.62003640000,6.59544630000,Maitumbi,Maitumbi,Butu Health Clinic,Primary,Health Post,Public,State Government,Unknown,Small Settlement Area
+9.75452000000,6.56457490000,Shatta,Shatta,Ezyi Primary Health Centre,Primary,Clinic,Public,State Government,Unknown,Hamlet
+9.72845490000,6.56451140000,Shatta,Shatta,Zinari Primary Health Centre,Primary,Clinic,Public,State Government,Unknown,Small Settlement Area
+9.72912597700,6.56530761700,Shatta,Shatta,Nyzemuwa Primary Health Center,,,,,,Small Settlement Area
+,,,,Housseyn Hospital,,Hospital,,,Functional,
+,,,,General Hospital Minna,,Public,Public,,Funtional,
+,,,,Mosol,,Private,Private,,Functional,
+,,,,New Bethel Hospital,,Private,Private,,Functional,
+,,,,MCH Jikpan,,Private,Private,,Functional,
+,,,,University Health Service FUT Minna,,Public,Public,,Functional,
+,,,,PHC Dutsen Kura Hausa,,Public,Public,,Functional,
+,,,,Maternal & Child health Care,,Private,Private,,Functional,
+,,,,Taimako Hospital & Maternity,,Private,Private,,Funtional,
