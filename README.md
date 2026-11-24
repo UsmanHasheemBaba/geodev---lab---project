@@ -34,3 +34,4 @@ Writing functions that return values, not just print them, finally clicked for m
 
 ### Month 3: Geospatial python Automation
 -Week 10: Geopandas.Loaded, Checked, joined and mapped my [wards]in code.
+- Week 12: Rasters Computed
